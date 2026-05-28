@@ -2,12 +2,12 @@
 
 A collection of open source tools for the [5th layer of the cake](https://blogs.nvidia.com/blog/ai-5-layer-cake).
 
-Work more safely and predictably with claw and code agents.
+Work more safely and predictably with agents.
 
-## akit: tools for improved human-agent cooperation
+## Tools for improved human-agent cooperation
 
-[amux](https://github.com/prettysmartdev/amux) turns you into the captain of a team of agents right from your terminal, always containerized.
+[awman](https://github.com/prettysmartdev/awman) makes you the captain of a team of agents right from your terminal, always containerized.
+
+[ane](https://github.com/prettysmartdev/ane) helps humans and agents discover, explore, and edit source code more efficiently from the terminal.
 
 [aspec](https://github.com/prettysmartdev/aspec) helps you and your agents share context via structured specs to achieve more predictable results.
-
-[alog](https://github.com/prettysmartdev/alog) gives your agents a notebook where they can record what works well, what doesn't, and get smarter over time.
