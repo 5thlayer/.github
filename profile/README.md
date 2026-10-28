@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/wswZGPQ2hg">Discord</a> ·
   <a href="https://bsky.app/profile/fifthlayerstudio.bsky.social">Bluesky</a>
 </p>
 
